@@ -1,4 +1,4 @@
-# AdOn Encrypt
+# AdOn I18n
 
 A simple translation class driven by JSON locales with fallback to original text and console notification
 
