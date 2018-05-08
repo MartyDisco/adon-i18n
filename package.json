@@ -1,6 +1,6 @@
 {
 	"name": "adon-i18n",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"author": "Martin PARENT <mparent@adon-immo.com> (https://adon-immo.com)",
 	"description": "A simple translation class driven by JSON locales with fallback to original text and console notification",
