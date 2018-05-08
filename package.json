@@ -14,7 +14,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MartyDisco/adon-i18n"
+		"url": "https://github.com/MartyDisco/adon-i18n.git"
 	},
 	"main": "bin/i18n.js",
 	"scripts": {
